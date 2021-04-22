@@ -1,0 +1,33 @@
+PCA
+https://www.kaggle.com/nirajvermafcb/principal-component-analysis-explained
+
+aprior algorithm
+
+https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/ 
+
+project
+-----------------
+https://www.kaggle.com/danielbeltran/credit-card-churn-complete-eda-prediction
+
+python program practise:
+=============================
+https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
+
+# learning curve
+https://www.kaggle.com/ratnesh88/predict-diabetes-using-tensor-flow
+
+diabetes model:
+==========================
+https://www.kaggle.com/jurk06/knn-classification-using-gridseachcv\
+
+Tensorflow Deep learning
+--------------------------
+https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=5
+
+https://www.youtube.com/watch?v=OzLAdpqm35E  (tensorflow cnn hyper tuning)
+
+
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction (python hackers rank)
+
+
+https://www.youtube.com/watch?v=XFnLN84Fz24  (tensorflow cnn for normal data)
