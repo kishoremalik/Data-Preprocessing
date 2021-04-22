@@ -1,0 +1,44 @@
+## Bell curve histogram
+
+data=data.drop('date',axis=1)
+row=4
+cols=7
+
+col=data.columns
+fig,ax=plt.subplots(nrows=row,ncols=cols,figsize=(16,4))
+index=0
+for i in range(row):
+    for j in range(cols):
+        sns.distplot(data[col[index]],ax=ax[i][j])
+        index=index+1
+plt.tight_layout()
+
+
+##  BOX PLOT ----------------------------------------
+row=4
+cols=7
+
+col=data.columns
+fig,ax=plt.subplots(nrows=row,ncols=cols,figsize=(16,4))
+index=0
+for i in range(row):
+    for j in range(cols):
+        sns.boxplot(data[col[index]],ax=ax[i][j])
+        index=index+1
+plt.tight_layout()
+
+## Corelation -------------------------------------------
+
+fig,ax=plt.subplots(figsize=(16,10))
+sns.heatmap(data.corr())
+
+
+## find attribute having higher corelation------------------------
+
+
+cor=data.corr()
+cor_target = abs(cor["rv1"])
+relevant_features = cor_target[cor_target>0.01]
+relevant_features
+
+## 
