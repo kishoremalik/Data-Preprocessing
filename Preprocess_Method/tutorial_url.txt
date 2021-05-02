@@ -31,3 +31,9 @@ https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-intro
 
 
 https://www.youtube.com/watch?v=XFnLN84Fz24  (tensorflow cnn for normal data)
+
+https://www.youtube.com/watch?v=4hYOkHijtNw&list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy (7 projects)
+
+https://www.youtube.com/watch?v=iRCaMnR_bpA(best project tutoruial)
+
+https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/#.YI5iB7UzbIU (TFIDF)
